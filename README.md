@@ -3,7 +3,7 @@
 <h2 align="center">mono to streo</h2>
 
 <p align="center">
-  to make sound rotates
+  to make a sound rotates like a circle
 </p>
 
 ------------------------------
