@@ -20,3 +20,5 @@
 - 소리의 앞뒤 차이 구현을 위해 cos 함수 이용
 
 ------------------------------
+
+### [**자세한 내용**](https://github.com/hhyein/project-monotostreo/wiki)
